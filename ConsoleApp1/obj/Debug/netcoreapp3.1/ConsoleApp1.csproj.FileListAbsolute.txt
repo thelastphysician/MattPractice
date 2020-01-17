@@ -20,3 +20,14 @@ D:\Documents\Code\ConsoleApp1\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\C
 D:\Documents\Code\ConsoleApp1\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
 D:\Documents\Code\ConsoleApp1\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 D:\Documents\Code\ConsoleApp1\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\matto\Documents\Code\MattPractice\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

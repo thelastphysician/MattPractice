@@ -98,7 +98,7 @@ namespace ConsoleApp1
                             }
                             else
                             {
-                                addition.Append(0); //too few or too many
+                                addition.Append(0); //too few or too many so die
                             }
                         }
                         else //dead
@@ -109,7 +109,7 @@ namespace ConsoleApp1
                             }
                             else
                             {
-                                addition.Append(0);
+                                addition.Append(prevmatrix.Index(i).Index(j) - prevmatrix.Index(i).Index(j)/2);
                             }
                         }
                         
