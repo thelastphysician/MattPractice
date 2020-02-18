@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matto\\Documents\\Code\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Documents\\Code\\ConsoleApp1\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matto\\Documents\\Code\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Documents\\Code\\ConsoleApp1\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matto\\Documents\\Code\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Documents\\Code\\ConsoleApp1\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\matto\\Documents\\Code\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\matto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matto\\Documents\\Code\\MattPractice\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\Documents\\Code\\ConsoleApp1\\MattPractice\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Code\\ConsoleApp1\\MattPractice\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\matto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

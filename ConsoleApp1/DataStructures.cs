@@ -73,6 +73,30 @@ namespace DataStructures
 			}
 			return list[i];
 		}
+
+		public void Replace(int index, T value)
+		{
+			if (index > count || index < 0)
+			{
+				if (ignoreOoB)
+				{
+					return;
+				}
+				else
+				{
+					throw new System.IndexOutOfRangeException("Index " + index + " out of Bounds for array of size " + count);
+				}
+
+			}
+			else
+			{
+				list[index] = value;
+			}
+
+		}
+		///<summary>
+		///Print out the arraylist
+		//////</summary>
 		public void Display()
 		{
 			
